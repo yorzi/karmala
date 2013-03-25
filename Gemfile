@@ -46,5 +46,6 @@ gem 'jquery-rails'
 gem "mongoid", ">= 3.1.2"
 gem "haml-rails", ">= 0.4"
 gem "omniauth", ">= 1.1.3"
-gem "omniauth-twitter"
+gem "omniauth-google-oauth2"
 gem "figaro", ">= 0.6.3"
+gem "settingslogic", "~> 2.0.6"
